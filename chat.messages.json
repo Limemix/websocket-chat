@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "670200163184cc951ea5bc42"
+  },
+  "chatRoom": {
+    "$oid": "6701ff386194ac8a6a1bd71f"
+  },
+  "username": "Oleksandr",
+  "message": "Hello",
+  "timestamp": {
+    "$date": "2024-10-06T03:12:22.654Z"
+  },
+  "__v": 0
+}]
